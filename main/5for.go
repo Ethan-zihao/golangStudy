@@ -30,7 +30,7 @@ func f3() {
 	i := 1
 	for i < 10 {
 		fmt.Printf("i: %v\n", i)
-		i++
+		   i++
 	}
 
 }

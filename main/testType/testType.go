@@ -15,4 +15,5 @@ func TypeTest() *int {
 func main() {
 	p:=TypeTest()
 	fmt.Printf("p: %v\n", p)
+	
 }
